@@ -1,1 +1,1279 @@
+Bouton A : X+30, Y+84
+Bouton B : X+74, Y+60
+Prix ​​: X=2358, Y=2628
 
+Bouton A : X+27, Y+56
+Bouton B : X+54, Y+25
+Prix ​​: X=6929, Y=7799
+
+Bouton A : X+62, Y+60
+Bouton B : X+14, Y+84
+Prix ​​: X=5514, Y=8436
+
+Bouton A : X+60, Y+32
+Bouton B : X+11, Y+43
+Prix ​​: X=10656, Y=9576
+
+Bouton A : X+37, Y+14
+Bouton B : X+68, Y+91
+Prix ​​: X=7092, Y=7644
+
+Bouton A : X+13, Y+93
+Bouton B : X+77, Y+45
+Prix ​​: X=8268, Y=13116
+
+Bouton A : X+54, Y+30
+Bouton B : X+16, Y+52
+Prix ​​: X=7130, Y=4946
+
+Bouton A : X+36, Y+57
+Bouton B : X+72, Y+34
+Prix ​​: X=8532, Y=6869
+
+Bouton A : X+14, Y+86
+Bouton B : X+42, Y+45
+Prix ​​: X=5180, Y=12437
+
+Bouton A : X+78, Y+46
+Bouton B : X+15, Y+37
+Prix ​​: X=18263, Y=15253
+
+Bouton A : X+98, Y+30
+Bouton B : X+63, Y+89
+Prix ​​: X=2219, Y=2701
+
+Bouton A : X+13, Y+36
+Bouton B : X+62, Y+26
+Prix ​​: X=512, Y=398
+
+Bouton A : X+40, Y+34
+Bouton B : X+11, Y+67
+Prix ​​: X=4399, Y=7717
+
+Bouton A : X+22, Y+78
+Bouton B : X+74, Y+11
+Prix ​​: X=14888, Y=8497
+
+Bouton A : X+84, Y+17
+Bouton B : X+51, Y+49
+Prix ​​: X=9585, Y=5769
+
+Bouton A : X+87, Y+95
+Bouton B : X+93, Y+15
+Prix ​​: X=8346, Y=6690
+
+Bouton A : X+93, Y+89
+Bouton B : X+66, Y+13
+Prix ​​: X=9960, Y=5920
+
+Bouton A : X+33, Y+12
+Bouton B : X+13, Y+23
+Prix ​​: X=3833, Y=16676
+
+Bouton A : X+18, Y+77
+Bouton B : X+80, Y+41
+Prix ​​: X=8308, Y=6020
+
+Bouton A : X+49, Y+33
+Bouton B : X+12, Y+34
+Prix ​​: X=1275, Y=10565
+
+Bouton A : X+21, Y+97
+Bouton B : X+53, Y+55
+Prix ​​: X=2820, Y=6762
+
+Bouton A : X+19, Y+15
+Bouton B : X+22, Y+94
+Prix ​​: X=1853, Y=2689
+
+Bouton A : X+67, Y+26
+Bouton B : X+12, Y+53
+Prix ​​: X=5956, Y=10384
+
+Bouton A : X+65, Y+21
+Bouton B : X+33, Y+57
+Prix ​​: X=5171, Y=1995
+
+Bouton A : X+17, Y+98
+Bouton B : X+59, Y+18
+Prix ​​: X=718, Y=1240
+
+Bouton A : X+46, Y+97
+Bouton B : X+53, Y+21
+Prix ​​: X=3194, Y=5283
+
+Bouton A : X+58, Y+34
+Bouton B : X+19, Y+73
+Prix ​​: X=897, Y=2691
+
+Bouton A : X+48, Y+16
+Bouton B : X+15, Y+36
+Prix ​​: X=3743, Y=756
+
+Bouton A : X+18, Y+71
+Bouton B : X+64, Y+21
+Prix ​​: X=12706, Y=16059
+
+Bouton A : X+63, Y+15
+Bouton B : X+29, Y+78
+Prix ​​: X=17626, Y=7913
+
+Bouton A : X+50, Y+80
+Bouton B : X+37, Y+14
+Prix ​​: X=1262, Y=2284
+
+Bouton A : X+13, Y+75
+Bouton B : X+98, Y+28
+Prix ​​: X=5682, Y=3762
+
+Bouton A : X+29, Y+13
+Bouton B : X+12, Y+20
+Prix ​​: X=10157, Y=6117
+
+Bouton A : X+15, Y+41
+Bouton B : X+52, Y+37
+Prix ​​: X=1523, Y=2691
+
+Bouton A : X+99, Y+25
+Bouton B : X+59, Y+70
+Prix ​​: X=12326, Y=7135
+
+Bouton A : X+15, Y+69
+Bouton B : X+53, Y+15
+Prix ​​: X=8866, Y=13478
+
+Bouton A : X+36, Y+84
+Bouton B : X+98, Y+43
+Prix ​​: X=7658, Y=7657
+
+Bouton A : X+13, Y+21
+Bouton B : X+83, Y+16
+Prix ​​: X=7900, Y=2725
+
+Bouton A : X+66, Y+45
+Bouton B : X+27, Y+69
+Prix ​​: X=5799, Y=4308
+
+Bouton A : X+67, Y+23
+Bouton B : X+14, Y+40
+Prix ​​: X=19338, Y=16246
+
+Bouton A : X+63, Y+26
+Bouton B : X+35, Y+72
+Prix ​​: X=17042, Y=13046
+
+Bouton A : X+71, Y+93
+Bouton B : X+88, Y+28
+Prix ​​: X=8278, Y=3338
+
+Bouton A : X+96, Y+29
+Bouton B : X+44, Y+68
+Prix ​​: X=6068, Y=4842
+
+Bouton A : X+38, Y+14
+Bouton B : X+17, Y+58
+Prix ​​: X=11550, Y=6436
+
+Bouton A : X+12, Y+38
+Bouton B : X+67, Y+19
+Prix ​​: X=7352, Y=17828
+
+Bouton A : X+52, Y+76
+Bouton B : X+37, Y+14
+Prix ​​: X=3544, Y=11460
+
+Bouton A : X+76, Y+13
+Bouton B : X+17, Y+83
+Prix ​​: X=18882, Y=14958
+
+Bouton A : X+81, Y+24
+Bouton B : X+48, Y+53
+Prix ​​: X=3909, Y=3989
+
+Bouton A : X+11, Y+85
+Bouton B : X+78, Y+13
+Prix ​​: X=17697, Y=1735
+
+Bouton A : X+30, Y+54
+Bouton B : X+56, Y+33
+Prix ​​: X=1852, Y=7943
+
+Bouton A : X+18, Y+42
+Bouton B : X+67, Y+45
+Prix ​​: X=10840, Y=3908
+
+Bouton A : X+52, Y+13
+Bouton B : X+28, Y+65
+Prix ​​: X=19732, Y=15629
+
+Bouton A : X+68, Y+17
+Bouton B : X+16, Y+77
+Prix ​​: X=5536, Y=5078
+
+Bouton A : X+19, Y+38
+Bouton B : X+33, Y+19
+Prix ​​: X=7571, Y=17201
+
+Bouton A : X+68, Y+33
+Bouton B : X+16, Y+64
+Prix ​​: X=4276, Y=7305
+
+Bouton A : X+33, Y+68
+Bouton B : X+57, Y+27
+Prix ​​: X=16142, Y=19177
+
+Bouton A : X+19, Y+51
+Bouton B : X+51, Y+27
+Prix ​​: X=5384, Y=8720
+
+Bouton A : X+15, Y+35
+Bouton B : X+57, Y+12
+Prix ​​: X=7697, Y=7622
+
+Bouton A : X+39, Y+64
+Bouton B : X+42, Y+17
+Prix ​​: X=14132, Y=8832
+
+Bouton A : X+16, Y+92
+Bouton B : X+61, Y+72
+Prix ​​: X=964, Y=4428
+
+Bouton A : X+15, Y+66
+Bouton B : X+79, Y+22
+Prix ​​: X=8166, Y=3696
+
+Bouton A : X+17, Y+57
+Bouton B : X+73, Y+15
+Prix ​​: X=737, Y=15443
+
+Bouton A : X+71, Y+45
+Bouton B : X+16, Y+46
+Prix ​​: X=19333, Y=19103
+
+Bouton A : X+15, Y+58
+Bouton B : X+57, Y+19
+Prix ​​: X=11711, Y=8779
+
+Bouton A : X+26, Y+36
+Bouton B : X+67, Y+13
+Prix ​​: X=2768, Y=3354
+
+Bouton A : X+25, Y+12
+Bouton B : X+29, Y+64
+Prix ​​: X=963, Y=828
+
+Bouton A : X+26, Y+31
+Bouton B : X+97, Y+27
+Prix ​​: X=6180, Y=3645
+
+Bouton A : X+99, Y+17
+Bouton B : X+30, Y+29
+Prix ​​: X=10077, Y=3209
+
+Bouton A : X+53, Y+84
+Bouton B : X+78, Y+38
+Prix ​​: X=8817, Y=9008
+
+Bouton A : X+94, Y+45
+Bouton B : X+49, Y+87
+Prix ​​: X=2280, Y=1854
+
+Bouton A : X+52, Y+32
+Bouton B : X+18, Y+44
+Prix ​​: X=8496, Y=10544
+
+Bouton A : X+61, Y+87
+Bouton B : X+96, Y+29
+Prix ​​: X=7361, Y=5858
+
+Bouton A : X+57, Y+29
+Bouton B : X+36, Y+62
+Prix ​​: X=5918, Y=12456
+
+Bouton A : X+32, Y+60
+Bouton B : X+32, Y+11
+Prix ​​: X=7584, Y=9782
+
+Bouton A : X+65, Y+23
+Bouton B : X+12, Y+35
+Prix ​​: X=7568, Y=6145
+
+Bouton A : X+15, Y+56
+Bouton B : X+76, Y+30
+Prix ​​: X=14275, Y=16984
+
+Bouton A : X+80, Y+63
+Bouton B : X+25, Y+80
+Prix ​​: X=8360, Y=9961
+
+Bouton A : X+15, Y+84
+Bouton B : X+58, Y+61
+Prix ​​: X=633, Y=1962
+
+Bouton A : X+34, Y+11
+Bouton B : X+31, Y+58
+Prix ​​: X=8855, Y=13334
+
+Bouton A : X+14, Y+51
+Bouton B : X+66, Y+23
+Prix ​​: X=10242, Y=12567
+
+Bouton A : X+77, Y+18
+Bouton B : X+26, Y+80
+Prix ​​: X=4725, Y=1622
+
+Bouton A : X+17, Y+48
+Bouton B : X+62, Y+26
+Prix ​​: X=16843, Y=18282
+
+Bouton A : X+68, Y+13
+Bouton B : X+29, Y+80
+Prix ​​: X=4879, Y=10935
+
+Bouton A : X+45, Y+79
+Bouton B : X+68, Y+31
+Prix ​​: X=6325, Y=6685
+
+Bouton A : X+43, Y+51
+Bouton B : X+54, Y+11
+Prix ​​: X=2459, Y=1219
+
+Bouton A : X+87, Y+52
+Bouton B : X+39, Y+71
+Prix ​​: X=10326, Y=9224
+
+Bouton A : X+23, Y+43
+Bouton B : X+31, Y+18
+Prix ​​: X=15835, Y=7693
+
+Bouton A : X+16, Y+40
+Bouton B : X+54, Y+38
+Prix ​​: X=4500, Y=6956
+
+Bouton A : X+91, Y+79
+Bouton B : X+15, Y+56
+Prix ​​: X=8379, Y=9380
+
+Bouton A : X+50, Y+73
+Bouton B : X+37, Y+17
+Prix ​​: X=17607, Y=4672
+
+Bouton A : X+44, Y+19
+Bouton B : X+49, Y+74
+Prix ​​: X=4512, Y=4462
+
+Bouton A : X+70, Y+12
+Bouton B : X+23, Y+72
+Prix ​​: X=4189, Y=2276
+
+Bouton A : X+63, Y+20
+Bouton B : X+44, Y+96
+Prix ​​: X=2510, Y=3832
+
+Bouton A : X+14, Y+32
+Bouton B : X+41, Y+30
+Prix ​​: X=3295, Y=13654
+
+Bouton A : X+68, Y+81
+Bouton B : X+40, Y+12
+Prix ​​: X=6448, Y=4722
+
+Bouton A : X+19, Y+46
+Bouton B : X+75, Y+28
+Prix ​​: X=3596, Y=3638
+
+Bouton A : X+91, Y+20
+Bouton B : X+75, Y+77
+Prix ​​: X=2148, Y=1985
+
+Bouton A : X+28, Y+20
+Bouton B : X+29, Y+66
+Prix ​​: X=1115, Y=1838
+
+Bouton A : X+42, Y+22
+Bouton B : X+17, Y+56
+Prix ​​: X=3832, Y=2384
+
+Bouton A : X+53, Y+16
+Bouton B : X+38, Y+72
+Prix ​​: X=4083, Y=17992
+
+Bouton A : X+90, Y+83
+Bouton B : X+15, Y+57
+Prix ​​: X=3180, Y=3796
+
+Bouton A : X+36, Y+64
+Bouton B : X+68, Y+20
+Prix ​​: X=1832, Y=1340
+
+Bouton A : X+50, Y+27
+Bouton B : X+22, Y+42
+Prix ​​: X=18290, Y=9452
+
+Bouton A : X+45, Y+99
+Bouton B : X+91, Y+60
+Prix ​​: X=5117, Y=6771
+
+Bouton A : X+50, Y+60
+Bouton B : X+91, Y+21
+Prix ​​: X=8641, Y=5871
+
+Bouton A : X+34, Y+77
+Bouton B : X+44, Y+13
+Prix ​​: X=14500, Y=19035
+
+Bouton A : X+62, Y+15
+Bouton B : X+14, Y+53
+Prix ​​: X=5804, Y=18440
+
+Bouton A : X+20, Y+11
+Bouton B : X+13, Y+31
+Prix ​​: X=11386, Y=15778
+
+Bouton A : X+17, Y+75
+Bouton B : X+67, Y+14
+Prix ​​: X=2454, Y=5375
+
+Bouton A : X+18, Y+73
+Bouton B : X+43, Y+12
+Prix ​​: X=10701, Y=12495
+
+Bouton A : X+75, Y+20
+Bouton B : X+18, Y+73
+Prix ​​: X=8456, Y=316
+
+Bouton A : X+85, Y+17
+Bouton B : X+65, Y+69
+Prix ​​: X=9600, Y=7408
+
+Bouton A : X+80, Y+19
+Bouton B : X+33, Y+55
+Prix ​​: X=2836, Y=3126
+
+Bouton A : X+46, Y+75
+Bouton B : X+35, Y+11
+Prix ​​: X=11027, Y=11053
+
+Bouton A : X+67, Y+47
+Bouton B : X+23, Y+95
+Prix ​​: X=7384, Y=12120
+
+Bouton A : X+13, Y+63
+Bouton B : X+68, Y+14
+Prix ​​: X=19577, Y=15047
+
+Bouton A : X+60, Y+66
+Bouton B : X+70, Y+11
+Prix ​​: X=7550, Y=5599
+
+Bouton A : X+64, Y+21
+Bouton B : X+21, Y+64
+Prix ​​: X=9563, Y=16357
+
+Bouton A : X+54, Y+12
+Bouton B : X+35, Y+72
+Prix ​​: X=6556, Y=944
+
+Bouton A : X+11, Y+44
+Bouton B : X+85, Y+58
+Prix ​​: X=5182, Y=6346
+
+Bouton A : X+52, Y+11
+Bouton B : X+25, Y+68
+Prix ​​: X=12749, Y=11717
+
+Bouton A : X+99, Y+75
+Bouton B : X+23, Y+55
+Prix ​​: X=962, Y=1330
+
+Bouton A : X+13, Y+57
+Bouton B : X+83, Y+27
+Prix ​​: X=7554, Y=16466
+
+Bouton A : X+27, Y+16
+Bouton B : X+15, Y+35
+Prix ​​: X=3581, Y=5508
+
+Bouton A : X+94, Y+13
+Bouton B : X+15, Y+23
+Prix ​​: X=8684, Y=2038
+
+Bouton A : X+79, Y+49
+Bouton B : X+23, Y+67
+Prix ​​: X=8226, Y=9110
+
+Bouton A : X+33, Y+57
+Bouton B : X+36, Y+17
+Prix ​​: X=4220, Y=9621
+
+Bouton A : X+54, Y+62
+Bouton B : X+11, Y+89
+Prix ​​: X=4235, Y=9521
+
+Bouton A : X+26, Y+75
+Bouton B : X+69, Y+15
+Prix ​​: X=738, Y=15500
+
+Bouton A : X+56, Y+75
+Bouton B : X+81, Y+21
+Prix ​​: X=3712, Y=2172
+
+Bouton A : X+41, Y+64
+Bouton B : X+40, Y+16
+Prix ​​: X=5131, Y=288
+
+Bouton A : X+22, Y+57
+Bouton B : X+42, Y+22
+Prix ​​: X=4758, Y=11323
+
+Bouton A : X+35, Y+16
+Bouton B : X+25, Y+47
+Prix ​​: X=19280, Y=16886
+
+Bouton A : X+57, Y+33
+Bouton B : X+17, Y+30
+Prix ​​: X=4642, Y=4415
+
+Bouton A : X+79, Y+31
+Bouton B : X+60, Y+96
+Prix ​​: X=2277, Y=3357
+
+Bouton A : X+71, Y+12
+Bouton B : X+61, Y+55
+Prix ​​: X=4805, Y=3136
+
+Bouton A : X+35, Y+56
+Bouton B : X+43, Y+18
+Prix ​​: X=8646, Y=1056
+
+Bouton A : X+21, Y+64
+Bouton B : X+60, Y+22
+Prix ​​: X=2696, Y=12524
+
+Bouton A : X+64, Y+15
+Bouton B : X+20, Y+60
+Prix ​​: X=18128, Y=17300
+
+Bouton A : X+90, Y+63
+Bouton B : X+31, Y+99
+Prix ​​: X=7507, Y=12753
+
+Bouton A : X+21, Y+38
+Bouton B : X+88, Y+52
+Prix ​​: X=5330, Y=5248
+
+Bouton A : X+56, Y+14
+Bouton B : X+21, Y+44
+Prix ​​: X=7774, Y=19196
+
+Bouton A : X+62, Y+74
+Bouton B : X+72, Y+12
+Prix ​​: X=4510, Y=1834
+
+Bouton A : X+59, Y+23
+Bouton B : X+17, Y+60
+Prix ​​: X=5086, Y=6466
+
+Bouton A : X+17, Y+45
+Bouton B : X+56, Y+30
+Prix ​​: X=684, Y=11750
+
+Bouton A : X+27, Y+51
+Bouton B : X+29, Y+13
+Prix ​​: X=18037, Y=8661
+
+Bouton A : X+15, Y+35
+Bouton B : X+80, Y+58
+Prix ​​: X=17095, Y=19711
+
+Bouton A : X+46, Y+25
+Bouton B : X+18, Y+35
+Prix ​​: X=8764, Y=18970
+
+Bouton A : X+76, Y+54
+Bouton B : X+30, Y+72
+Prix ​​: X=7072, Y=6444
+
+Bouton A : X+19, Y+57
+Bouton B : X+95, Y+77
+Prix ​​: X=8569, Y=10731
+
+Bouton A : X+13, Y+33
+Bouton B : X+61, Y+12
+Prix ​​: X=4182, Y=19652
+
+Bouton A : X+13, Y+57
+Bouton B : X+54, Y+21
+Prix ​​: X=4954, Y=3381
+
+Bouton A : X+11, Y+57
+Bouton B : X+71, Y+17
+Prix ​​: X=3270, Y=5350
+
+Bouton A : X+27, Y+56
+Bouton B : X+39, Y+18
+Prix ​​: X=2469, Y=3926
+
+Bouton A : X+30, Y+81
+Bouton B : X+51, Y+12
+Prix ​​: X=3581, Y=647
+
+Bouton A : X+19, Y+63
+Bouton B : X+69, Y+13
+Prix ​​: X=4376, Y=4152
+
+Bouton A : X+77, Y+40
+Bouton B : X+23, Y+86
+Prix ​​: X=5168, Y=7424
+
+Bouton A : X+22, Y+89
+Bouton B : X+95, Y+13
+Prix ​​: X=1462, Y=716
+
+Bouton A : X+26, Y+64
+Bouton B : X+67, Y+22
+Prix ​​: X=13602, Y=17772
+
+Bouton A : X+85, Y+25
+Bouton B : X+32, Y+88
+Prix ​​: X=6819, Y=7271
+
+Bouton A : X+34, Y+19
+Bouton B : X+29, Y+54
+Prix ​​: X=7921, Y=1451
+
+Bouton A : X+12, Y+75
+Bouton B : X+52, Y+14
+Prix ​​: X=19528, Y=18819
+
+Bouton A : X+12, Y+64
+Bouton B : X+78, Y+21
+Prix ​​: X=11228, Y=13356
+
+Bouton A : X+70, Y+15
+Bouton B : X+24, Y+71
+Prix ​​: X=13990, Y=6095
+
+Bouton A : X+40, Y+67
+Bouton B : X+73, Y+40
+Prix ​​: X=8550, Y=8562
+
+Bouton A : X+11, Y+38
+Bouton B : X+81, Y+22
+Prix ​​: X=1569, Y=2842
+
+Bouton A : X+56, Y+19
+Bouton B : X+23, Y+86
+Prix ​​: X=4702, Y=4254
+
+Bouton A : X+39, Y+66
+Bouton B : X+51, Y+13
+Prix ​​: X=3207, Y=2275
+
+Bouton A : X+16, Y+59
+Bouton B : X+97, Y+19
+Prix ​​: X=1128, Y=1450
+
+Bouton A : X+49, Y+78
+Bouton B : X+43, Y+14
+Prix ​​: X=3999, Y=18122
+
+Bouton A : X+57, Y+24
+Bouton B : X+14, Y+57
+Prix ​​: X=3678, Y=18029
+
+Bouton A : X+22, Y+86
+Bouton B : X+91, Y+71
+Prix ​​: X=3908, Y=5596
+
+Bouton A : X+36, Y+69
+Bouton B : X+48, Y+21
+Prix ​​: X=10328, Y=13736
+
+Bouton A : X+48, Y+44
+Bouton B : X+16, Y+86
+Prix ​​: X=3776, Y=5958
+
+Bouton A : X+30, Y+62
+Bouton B : X+97, Y+28
+Prix ​​: X=4120, Y=1616
+
+Bouton A : X+29, Y+65
+Bouton B : X+48, Y+20
+Prix ​​: X=4461, Y=6545
+
+Bouton A : X+88, Y+31
+Bouton B : X+44, Y+93
+Prix ​​: X=4224, Y=3658
+
+Bouton A : X+69, Y+14
+Bouton B : X+36, Y+89
+Prix ​​: X=3987, Y=1871
+
+Bouton A : X+57, Y+14
+Bouton B : X+26, Y+63
+Prix ​​: X=18498, Y=6920
+
+Bouton A : X+50, Y+23
+Bouton B : X+17, Y+51
+Prix ​​: X=903, Y=4059
+
+Bouton A : X+12, Y+80
+Bouton B : X+82, Y+63
+Prix ​​: X=8718, Y=10237
+
+Bouton A : X+82, Y+16
+Bouton B : X+53, Y+63
+Prix ​​: X=13042, Y=7600
+
+Bouton A : X+59, Y+24
+Bouton B : X+19, Y+60
+Prix ​​: X=17369, Y=16700
+
+Bouton A : X+32, Y+68
+Bouton B : X+39, Y+15
+Prix ​​: X=15759, Y=5835
+
+Bouton A : X+93, Y+27
+Bouton B : X+19, Y+75
+Prix ​​: X=2680, Y=1056
+
+Bouton A : X+34, Y+11
+Bouton B : X+45, Y+78
+Prix ​​: X=17494, Y=17856
+
+Bouton A : X+27, Y+11
+Bouton B : X+24, Y+66
+Prix ​​: X=11795, Y=9681
+
+Bouton A : X+20, Y+63
+Bouton B : X+53, Y+22
+Prix ​​: X=13888, Y=11504
+
+Bouton A : X+45, Y+80
+Bouton B : X+41, Y+23
+Prix ​​: X=2075, Y=3190
+
+Bouton A : X+18, Y+47
+Bouton B : X+69, Y+35
+Prix ​​: X=2507, Y=7470
+
+Bouton A : X+20, Y+61
+Bouton B : X+32, Y+27
+Prix ​​: X=2632, Y=4074
+
+Bouton A : X+95, Y+33
+Bouton B : X+38, Y+61
+Prix ​​: X=2508, Y=1636
+
+Bouton A : X+67, Y+41
+Bouton B : X+13, Y+30
+Prix ​​: X=4714, Y=3039
+
+Bouton A : X+41, Y+74
+Bouton B : X+23, Y+13
+Prix ​​: X=2963, Y=4521
+
+Bouton A : X+37, Y+13
+Bouton B : X+32, Y+76
+Prix ​​: X=4214, Y=5366
+
+Bouton A : X+14, Y+34
+Bouton B : X+47, Y+17
+Prix ​​: X=18816, Y=19216
+
+Bouton A : X+29, Y+85
+Bouton B : X+75, Y+62
+Prix ​​: X=5618, Y=8733
+
+Bouton A : X+70, Y+22
+Bouton B : X+57, Y+98
+Prix ​​: X=7876, Y=8722
+
+Bouton A : X+24, Y+72
+Bouton B : X+60, Y+24
+Prix ​​: X=8220, Y=9216
+
+Bouton A : X+40, Y+18
+Bouton B : X+25, Y+37
+Prix ​​: X=18700, Y=10122
+
+Bouton A : X+23, Y+50
+Bouton B : X+66, Y+39
+Prix ​​: X=5026, Y=1084
+
+Bouton A : X+91, Y+41
+Bouton B : X+50, Y+71
+Prix ​​: X=13686, Y=10965
+
+Bouton A : X+13, Y+77
+Bouton B : X+80, Y+16
+Prix ​​: X=2489, Y=7417
+
+Bouton A : X+15, Y+40
+Bouton B : X+32, Y+19
+Prix ​​: X=12810, Y=14395
+
+Bouton A : X+17, Y+36
+Bouton B : X+42, Y+16
+Prix ​​: X=5101, Y=10628
+
+Bouton A : X+66, Y+13
+Bouton B : X+43, Y+95
+Prix ​​: X=4306, Y=3271
+
+Bouton A : X+35, Y+91
+Bouton B : X+44, Y+23
+Prix ​​: X=2551, Y=1697
+
+Bouton A : X+60, Y+33
+Bouton B : X+19, Y+50
+Prix ​​: X=10408, Y=12351
+
+Bouton A : X+60, Y+92
+Bouton B : X+54, Y+12
+Prix ​​: X=8358, Y=7364
+
+Bouton A : X+11, Y+52
+Bouton B : X+82, Y+29
+Prix ​​: X=9452, Y=3839
+
+Bouton A : X+43, Y+11
+Bouton B : X+27, Y+51
+Prix ​​: X=9846, Y=6310
+
+Bouton A : X+38, Y+16
+Bouton B : X+43, Y+62
+Prix ​​: X=12376, Y=7824
+
+Bouton A : X+53, Y+18
+Bouton B : X+30, Y+74
+Prix ​​: X=7614, Y=6544
+
+Bouton A : X+56, Y+98
+Bouton B : X+82, Y+34
+Prix ​​: X=10396, Y=7900
+
+Bouton A : X+24, Y+11
+Bouton B : X+24, Y+38
+Prix ​​: X=1232, Y=9215
+
+Bouton A : X+77, Y+37
+Bouton B : X+11, Y+36
+Prix ​​: X=9637, Y=8562
+
+Bouton A : X+59, Y+31
+Bouton B : X+41, Y+72
+Prix ​​: X=7508, Y=7376
+
+Bouton A : X+15, Y+71
+Bouton B : X+94, Y+70
+Prix ​​: X=6276, Y=9460
+
+Bouton A : X+40, Y+18
+Bouton B : X+16, Y+53
+Prix ​​: X=3200, Y=2356
+
+Bouton A : X+97, Y+29
+Bouton B : X+12, Y+48
+Prix ​​: X=7150, Y=3470
+
+Bouton A : X+16, Y+34
+Bouton B : X+61, Y+21
+Prix ​​: X=8585, Y=19133
+
+Bouton A : X+15, Y+32
+Bouton B : X+83, Y+25
+Prix ​​: X=3472, Y=2997
+
+Bouton A : X+37, Y+12
+Bouton B : X+24, Y+70
+Prix ​​: X=11590, Y=3098
+
+Bouton A : X+76, Y+47
+Bouton B : X+17, Y+47
+Prix ​​: X=6787, Y=4850
+
+Bouton A : X+28, Y+51
+Bouton B : X+89, Y+51
+Prix ​​: X=6063, Y=4488
+
+Bouton A : X+55, Y+23
+Bouton B : X+26, Y+95
+Prix ​​: X=3686, Y=4570
+
+Bouton A : X+59, Y+38
+Bouton B : X+11, Y+24
+Prix ​​: X=4825, Y=17158
+
+Bouton A : X+57, Y+99
+Bouton B : X+94, Y+54
+Prix ​​: X=10100, Y=10440
+
+Bouton A : X+68, Y+37
+Bouton B : X+38, Y+98
+Prix ​​: X=6872, Y=10389
+
+Bouton A : X+57, Y+14
+Bouton B : X+13, Y+87
+Prix ​​: X=4870, Y=4297
+
+Bouton A : X+18, Y+69
+Bouton B : X+88, Y+80
+Prix ​​: X=6988, Y=8774
+
+Bouton A : X+44, Y+29
+Bouton B : X+23, Y+48
+Prix ​​: X=15873, Y=3148
+
+Bouton A : X+62, Y+11
+Bouton B : X+15, Y+49
+Prix ​​: X=10375, Y=14982
+
+Bouton A : X+71, Y+32
+Bouton B : X+36, Y+95
+Prix ​​: X=4724, Y=2523
+
+Bouton A : X+40, Y+17
+Bouton B : X+36, Y+58
+Prix ​​: X=15940, Y=5038
+
+Bouton A : X+61, Y+98
+Bouton B : X+54, Y+20
+Prix ​​: X=1918, Y=1012
+
+Bouton A : X+44, Y+63
+Bouton B : X+77, Y+36
+Prix ​​: X=8701, Y=5256
+
+Bouton A : X+17, Y+76
+Bouton B : X+79, Y+12
+Prix ​​: X=15005, Y=11140
+
+Bouton A : X+90, Y+21
+Bouton B : X+51, Y+75
+Prix ​​: X=5154, Y=3348
+
+Bouton A : X+68, Y+27
+Bouton B : X+16, Y+46
+Prix ​​: X=2348, Y=2201
+
+Bouton A : X+13, Y+54
+Bouton B : X+78, Y+39
+Prix ​​: X=7202, Y=6831
+
+Bouton A : X+68, Y+20
+Bouton B : X+58, Y+85
+Prix ​​: X=4718, Y=2135
+
+Bouton A : X+13, Y+30
+Bouton B : X+64, Y+22
+Prix ​​: X=13148, Y=17478
+
+Bouton A : X+15, Y+95
+Bouton B : X+88, Y+33
+Prix ​​: X=6493, Y=9138
+
+Bouton A : X+61, Y+33
+Bouton B : X+11, Y+41
+Prix ​​: X=16563, Y=17481
+
+Bouton A : X+13, Y+85
+Bouton B : X+75, Y+31
+Prix ​​: X=2013, Y=4893
+
+Bouton A : X+11, Y+66
+Bouton B : X+71, Y+64
+Prix ​​: X=2940, Y=7866
+
+Bouton A : X+57, Y+70
+Bouton B : X+87, Y+26
+Prix ​​: X=5982, Y=4436
+
+Bouton A : X+27, Y+62
+Bouton B : X+70, Y+32
+Prix ​​: X=6751, Y=5718
+
+Bouton A : X+83, Y+67
+Bouton B : X+24, Y+88
+Prix ​​: X=2527, Y=8079
+
+Bouton A : X+89, Y+38
+Bouton B : X+35, Y+89
+Prix ​​: X=5488, Y=6046
+
+Bouton A : X+14, Y+34
+Bouton B : X+72, Y+46
+Prix ​​: X=8168, Y=9668
+
+Bouton A : X+37, Y+60
+Bouton B : X+32, Y+13
+Prix ​​: X=16754, Y=12396
+
+Bouton A : X+34, Y+16
+Bouton B : X+27, Y+49
+Prix ​​: X=5923, Y=14747
+
+Bouton A : X+18, Y+66
+Bouton B : X+32, Y+11
+Prix ​​: X=4186, Y=16897
+
+Bouton A : X+43, Y+16
+Bouton B : X+26, Y+64
+Prix ​​: X=17802, Y=13696
+
+Bouton A : X+11, Y+52
+Bouton B : X+76, Y+14
+Prix ​​: X=12940, Y=6336
+
+Bouton A : X+37, Y+65
+Bouton B : X+43, Y+14
+Prix ​​: X=850, Y=3339
+
+Bouton A : X+15, Y+57
+Bouton B : X+66, Y+20
+Prix ​​: X=8435, Y=273
+
+Bouton A : X+51, Y+17
+Bouton B : X+19, Y+54
+Prix ​​: X=12735, Y=17442
+
+Bouton A : X+24, Y+86
+Bouton B : X+86, Y+83
+Prix ​​: X=6992, Y=10644
+
+Bouton A : X+14, Y+52
+Bouton B : X+52, Y+25
+Prix ​​: X=1408, Y=2035
+
+Bouton A : X+75, Y+95
+Bouton B : X+74, Y+21
+Prix ​​: X=11410, Y=9725
+
+Bouton A : X+36, Y+16
+Bouton B : X+19, Y+30
+Prix ​​: X=18088, Y=7632
+
+Bouton A : X+30, Y+53
+Bouton B : X+55, Y+32
+Prix ​​: X=240, Y=8083
+
+Bouton A : X+15, Y+74
+Bouton B : X+73, Y+22
+Prix ​​: X=10546, Y=17756
+
+Bouton A : X+23, Y+52
+Bouton B : X+51, Y+20
+Prix ​​: X=12616, Y=16800
+
+Bouton A : X+14, Y+24
+Bouton B : X+24, Y+11
+Prix ​​: X=18016, Y=4285
+
+Bouton A : X+21, Y+41
+Bouton B : X+58, Y+27
+Prix ​​: X=16868, Y=14665
+
+Bouton A : X+20, Y+49
+Bouton B : X+41, Y+18
+Prix ​​: X=17625, Y=17789
+
+Bouton A : X+14, Y+66
+Bouton B : X+55, Y+11
+Prix ​​: X=5058, Y=8658
+
+Bouton A : X+46, Y+20
+Bouton B : X+15, Y+38
+Prix ​​: X=9415, Y=3630
+
+Bouton A : X+35, Y+21
+Bouton B : X+27, Y+61
+Prix ​​: X=3348, Y=4428
+
+Bouton A : X+86, Y+42
+Bouton B : X+13, Y+70
+Prix ​​: X=8750, Y=6692
+
+Bouton A : X+23, Y+61
+Bouton B : X+41, Y+13
+Prix ​​: X=9822, Y=16384
+
+Bouton A : X+11, Y+32
+Bouton B : X+80, Y+46
+Prix ​​: X=17018, Y=19496
+
+Bouton A : X+68, Y+19
+Bouton B : X+20, Y+72
+Prix ​​: X=14132, Y=9954
+
+Bouton A : X+70, Y+14
+Bouton B : X+14, Y+43
+Prix ​​: X=17448, Y=3997
+
+Bouton A : X+48, Y+87
+Bouton B : X+93, Y+16
+Prix ​​: X=1470, Y=1749
+
+Bouton A : X+67, Y+14
+Bouton B : X+17, Y+61
+Prix ​​: X=3548, Y=7550
+
+Bouton A : X+81, Y+47
+Bouton B : X+37, Y+66
+Prix ​​: X=9070, Y=8380
+
+Bouton A : X+26, Y+16
+Bouton B : X+13, Y+42
+Prix ​​: X=5697, Y=18102
+
+Bouton A : X+80, Y+30
+Bouton B : X+12, Y+59
+Prix ​​: X=12296, Y=4362
+
+Bouton A : X+37, Y+14
+Bouton B : X+27, Y+59
+Prix ​​: X=14683, Y=8791
+
+Bouton A : X+27, Y+12
+Bouton B : X+24, Y+59
+Prix ​​: X=13097, Y=14877
+
+Bouton A : X+40, Y+11
+Bouton B : X+12, Y+59
+Prix ​​: X=13684, Y=6811
+
+Bouton A : X+71, Y+41
+Bouton B : X+20, Y+51
+Prix ​​: X=13902, Y=12011
+
+Bouton A : X+12, Y+45
+Bouton B : X+60, Y+29
+Prix ​​: X=11204, Y=9867
+
+Bouton A : X+13, Y+88
+Bouton B : X+62, Y+43
+Prix ​​: X=3983, Y=9634
+
+Bouton A : X+67, Y+24
+Bouton B : X+11, Y+59
+Prix ​​: X=13210, Y=2149
+
+Bouton A : X+66, Y+38
+Bouton B : X+17, Y+38
+Prix ​​: X=4609, Y=18322
+
+Bouton A : X+36, Y+69
+Bouton B : X+41, Y+14
+Prix ​​: X=5289, Y=2256
+
+Bouton A : X+94, Y+33
+Bouton B : X+54, Y+70
+Prix ​​: X=4934, Y=5152
+
+Bouton A : X+29, Y+50
+Bouton B : X+31, Y+14
+Prix ​​: X=18723, Y=18294
+
+Bouton A : X+30, Y+56
+Bouton B : X+47, Y+20
+Prix ​​: X=19510, Y=10376
+
+Bouton A : X+47, Y+93
+Bouton B : X+78, Y+35
+Prix ​​: X=7082, Y=8643
+
+Bouton A : X+38, Y+33
+Bouton B : X+92, Y+11
+Prix ​​: X=9340, Y=3564
+
+Bouton A : X+75, Y+22
+Bouton B : X+20, Y+74
+Prix ​​: X=17190, Y=7658
+
+Bouton A : X+28, Y+95
+Bouton B : X+51, Y+39
+Prix ​​: X=4215, Y=7197
+
+Bouton A : X+16, Y+50
+Bouton B : X+45, Y+21
+Prix ​​: X=17780, Y=18302
+
+Bouton A : X+50, Y+32
+Bouton B : X+22, Y+46
+Prix ​​: X=8204, Y=9872
+
+Bouton A : X+17, Y+52
+Bouton B : X+75, Y+47
+Prix ​​: X=7597, Y=6456
+
+Bouton A : X+14, Y+99
+Bouton B : X+55, Y+51
+Prix ​​: X=2552, Y=5205
+
+Bouton A : X+63, Y+22
+Bouton B : X+41, Y+97
+Prix ​​: X=7919, Y=7809
+
+Bouton A : X+90, Y+95
+Bouton B : X+23, Y+98
+Prix ​​: X=1247, Y=2717
+
+Bouton A : X+93, Y+43
+Bouton B : X+35, Y+98
+Prix ​​: X=5825, Y=3266
+
+Bouton A : X+65, Y+20
+Bouton B : X+11, Y+36
+Prix ​​: X=15896, Y=736
+
+Bouton A : X+87, Y+81
+Bouton B : X+18, Y+73
+Prix ​​: X=9522, Y=14152
+
+Bouton A : X+26, Y+73
+Bouton B : X+69, Y+22
+Prix ​​: X=18067, Y=5001
+
+Bouton A : X+48, Y+11
+Bouton B : X+47, Y+70
+Prix ​​: X=3748, Y=3465
+
+Bouton A : X+12, Y+95
+Bouton B : X+24, Y+29
+Prix ​​: X=2388, Y=6347
+
+Bouton A : X+81, Y+53
+Bouton B : X+12, Y+69
+Prix ​​: X=8244, Y=11081
+
+Bouton A : X+64, Y+58
+Bouton B : X+14, Y+96
+Prix ​​: X=1754, Y=5172
+
+Bouton A : X+23, Y+57
+Bouton B : X+40, Y+17
+Prix ​​: X=19340, Y=15119
+
+Bouton A : X+52, Y+16
+Bouton B : X+14, Y+30
+Prix ​​: X=4326, Y=12602
+
+Bouton A : X+97, Y+76
+Bouton B : X+21, Y+61
+Prix ​​: X=10800, Y=11001
+
+Bouton A : X+76, Y+36
+Bouton B : X+37, Y+94
+Prix ​​: X=2463, Y=1702
+
+Bouton A : X+42, Y+15
+Bouton B : X+33, Y+70
+Prix ​​: X=815, Y=5195
+
+Bouton A : X+26, Y+54
+Bouton B : X+47, Y+21
+Prix ​​: X=787, Y=11057
+
+Bouton A : X+70, Y+28
+Bouton B : X+28, Y+68
+Prix ​​: X=256, Y=2948
